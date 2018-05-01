@@ -1,0 +1,4 @@
+-r requirements.txt
+django==1.11.12
+pytest==3.5.1
+pytest-django==3.2.1

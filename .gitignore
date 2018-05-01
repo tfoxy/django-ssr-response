@@ -1,0 +1,7 @@
+venv/
+*.pyc
+.vscode/
+*.egg-info/
+.eggs/
+.pytest_cache/
+node_modules/
